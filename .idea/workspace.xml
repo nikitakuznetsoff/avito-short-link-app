@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c18d09f7-53db-4d94-94bb-2b626dd4dc6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1hfvzdfYIhMVaHZiWZFuSWSczpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build test.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ShortLink" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/shortlinkapp/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ShortLink" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/shortlinkapp/test.go" />
+      <package value="shortlinkapp" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="282" width="400" height="339" key="#Go_Modules" timestamp="1600416605128">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="598" y="282" width="400" height="339" key="#Go_Modules/64.27.1472.837@64.27.1472.837" timestamp="1600416605128" />
+    <state x="262" y="99" width="1076" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600416676386">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="262" y="99" width="1076" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.1472.837@64.27.1472.837" timestamp="1600416676386" />
+    <state x="586" y="204" width="424" height="496" key="FileChooserDialogImpl" timestamp="1600415348356">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="586" y="204" width="424" height="496" key="FileChooserDialogImpl/64.27.1472.837@64.27.1472.837" timestamp="1600415348356" />
+    <state width="1426" height="204" key="GridCell.Tab.0.bottom" timestamp="1600450049355">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state width="1426" height="204" key="GridCell.Tab.0.bottom/64.27.1472.837@64.27.1472.837" timestamp="1600450049355" />
+    <state width="1426" height="204" key="GridCell.Tab.0.center" timestamp="1600450049354">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state width="1426" height="204" key="GridCell.Tab.0.center/64.27.1472.837@64.27.1472.837" timestamp="1600450049354" />
+    <state width="1426" height="204" key="GridCell.Tab.0.left" timestamp="1600450049353">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state width="1426" height="204" key="GridCell.Tab.0.left/64.27.1472.837@64.27.1472.837" timestamp="1600450049353" />
+    <state width="1426" height="204" key="GridCell.Tab.0.right" timestamp="1600450049354">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state width="1426" height="204" key="GridCell.Tab.0.right/64.27.1472.837@64.27.1472.837" timestamp="1600450049354" />
+    <state x="292" y="81" width="1016" height="742" key="SettingsEditor" timestamp="1600416892530">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="292" y="81" width="1016" height="742" key="SettingsEditor/64.27.1472.837@64.27.1472.837" timestamp="1600416892530" />
+    <state x="463" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1600426653304">
+      <screen x="64" y="27" width="1472" height="837" />
+    </state>
+    <state x="463" y="185" width="672" height="678" key="search.everywhere.popup/64.27.1472.837@64.27.1472.837" timestamp="1600426653304" />
+  </component>
+</project>
