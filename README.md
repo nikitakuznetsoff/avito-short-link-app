@@ -11,31 +11,24 @@
 - Для тестирования методов работы с БД использовал [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
   
 ## Описание API
-- `localhost:9000/balance` - получение баланса пользователя
+- `localhost:9000/{:indentificator}` - получание полной ссылки
 ```
-curl --header "Content-Type: application/json" \
+curl --request GET \
+http://localhost:9000/test
+```
+- `localhost:9000/create` - запрос на создание сокращенной ссылки.
+  + link - ссылка
+  + name - пользовательское имя для сокращенной ссылки, по умолчанию генерируется рандмное имя длиной 6 символов
+```
+curl --header "Content-Type: application/x-www-form-urlencoded" \
 --request POST \
---data '{"userID": 2}' \
-http://localhost:9000/balance
-```
-- `localhost:9000/balance?currency=USD` - получение баланса пользователя в заданной валюте
-```
-curl --header "Content-Type: application/json" \
---request POST \
---data '{"userID": 2}' \
-http://localhost:9000/balance?currency=USD
-```
-- `localhost:9000/balance/withdraw` - снятие денег с баланса пользователя
-```
-curl --header "Content-Type: application/json" \
---request POST \
---data '{"userID": 2, "value": 50.44}' \
-http://localhost:9000/balance/withdraw
+--data "link=https://vk.com/feed&name=facebook" \
+http://localhost:9000/create
 ```
 ## Структура проекта
 Пытался структурировать проект в соответствии с [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 ```
-BalanceApp
+ShortLinkApp
 │   README.md
 │   Dockerfile
 |   docker-compose.yml
