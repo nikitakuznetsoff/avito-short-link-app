@@ -78,7 +78,7 @@ func (handler *LinksHandler) CreateShortLink(w http.ResponseWriter,
 
 	err = handler.Tmpl.ExecuteTemplate(w, "result.html",
 		struct{ Link string } {
-			Link: "https://localhost:9000/" + name,
+			Link: "http://localhost:9000/" + name,
 	})
 	if err != nil {
 		http.Error(w, "template error", http.StatusInternalServerError)

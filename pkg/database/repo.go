@@ -24,6 +24,7 @@ func (repo *Repository) Get(key string) (*models.ShortLink, error) {
 }
 
 func (repo *Repository) Set(sl *models.ShortLink) (int64, error) {
+
 	result, err := repo.DB.Exec("INSERT INTO links (`id`, `link`) VALUES (?, ?)",
 								sl.ID, sl.Link)
 	if err != nil {

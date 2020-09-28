@@ -32,7 +32,11 @@
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
   </component>
@@ -77,10 +81,10 @@
       <screen x="64" y="27" width="1472" height="837" />
     </state>
     <state x="262" y="99" width="1076" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.1472.837@64.27.1472.837" timestamp="1600416676386" />
-    <state x="586" y="204" width="424" height="496" key="FileChooserDialogImpl" timestamp="1600415348356">
+    <state x="586" y="189" width="424" height="496" key="FileChooserDialogImpl" timestamp="1601324794290">
       <screen x="64" y="27" width="1472" height="837" />
     </state>
-    <state x="586" y="204" width="424" height="496" key="FileChooserDialogImpl/64.27.1472.837@64.27.1472.837" timestamp="1600415348356" />
+    <state x="586" y="189" width="424" height="496" key="FileChooserDialogImpl/64.27.1472.837@64.27.1472.837" timestamp="1601324794290" />
     <state width="1426" height="204" key="GridCell.Tab.0.bottom" timestamp="1600450049355">
       <screen x="64" y="27" width="1472" height="837" />
     </state>
