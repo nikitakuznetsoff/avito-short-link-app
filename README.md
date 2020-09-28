@@ -54,10 +54,10 @@ ShortLinkApp
 |   |
 │   └───models
 │   |   │   short_link.go
-|   |
-│   └───templates
-│       │   index.html
-|       |   result.html  
+|   
+└───templates
+│   │   index.html
+|   |   result.html  
 |
 └───script
     │   wait-for-it.sh
